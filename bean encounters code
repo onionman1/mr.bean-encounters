@@ -1,0 +1,236 @@
+<html>
+<h1 class="crust">this website use HTML5 css and javascript which does not work on some browsers</h1>
+<button class="out">bean out</button>
+<center><marquee class="danger">danger levels: safe, unsafe, dangerous, very dangerous, world threatning, universe threatning,keter,???,hahahahaha </marquee></center>
+<body style="background-color: green;"></body>
+<Center><h1 class="scary">bean encounters</h1></center>
+<center><h1 class="bean">1st encounter</h1></center>
+<center><h1>location: TN,brighton elemantry school</h1></center>
+<center><h1>info: found in an office up then to the right
+he is found wearing a grey beanie and smug expression</h1></center>
+<center><h1>image: unknown</h1></center>
+<center><h1>danger level: 3/10 safe</h1></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Center><h1 class="all">alleyway bean</h1></Center>
+<center><h1>location: london,jerome alley</h1></center>
+<center><h1>info: found beaten up with many scratches and with a mean expression</h1></center>
+<center><h1>image:</h1></center>
+<center><img src="https://i.ytimg.com/vi/6bvRlpU3oE4/mqdefault.jpg"onclick=></center>
+<center><h1>danger level: 5/10 unsafe</h1></center>
+
+
+<center><h1 class="beany">scary mr.bean</h1></center>
+<center><h1>location: 36,crescent drive</h1></center>
+<center><h1>a creepy looking bean found near a driveway he may look scary but is safe</h1></center>
+<center><h1>image:</h1></center>
+<center><img class="evil" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpbP8frH9ntKymxx9W6Ml81yraaVhB-Aw6aBjthieA5BhVKhvv6sziypa0cGToOzUq&usqp=CAU"></a></center>
+<center><h1>danger level: 3/10 safe</h1></center>
+
+
+<center><h1 class="jumpy">jumpscare bean</h1></center>
+<center><h1>Arizona,mr.beans pizza</h1></center>
+<center><h1>found in a dark room with a smiling face not dangerous but can give you a heart attack</h1></center>
+<center><h1>found footage:</h1></center>
+
+<center class="jump"><iframe width="713" height="401" src="https://www.youtube.com/embed/L8D5LTutZ4k" title="MR BEAN (FUNNY JUMPSCARE)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><h1>danger level: 5/10 unsafe: because of heart attacks</h1></center>
+
+
+
+
+
+
+
+
+<style>
+.scary {
+font-size: 10em;
+box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15);
+}
+.bean {
+  box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15);
+}
+
+.all {
+ box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15);
+}
+
+.out {
+  background-color:red;
+  border:none;
+  border-radius: 20em;
+  font-weight:bold;
+  height:50px;
+  width:50px;
+   box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15);
+}
+.out:hover {
+  transition:opacity 0.15s;
+  opacity:0.7;
+  cursor:progress;
+}
+.out:active {
+ transition:opacity 0.15s;
+ opacity:0.9;
+ cursor:s-resize;
+}
+
+.beany {
+  box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15);
+}
+.evil {
+  height:100px;
+  width:100px;
+}
+.jumpy {
+  box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15)
+}
+.jump {
+   box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15)
+   
+}
+
+.ballin {
+  box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15)
+}
+
+.crust {
+  color:brown;
+}
+.crust:hover {
+  color: blue;
+}
+
+.crust:active {
+  color:purple;
+}
+.cart {
+  width:500px;
+  height:500px;
+}
+.danger {
+  font-weight:bold;
+}
+
+.mark {
+  box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15)
+  
+}
+
+.mark:hover {
+  background-color:brown;
+}
+
+.balls {
+  width:300px;
+  height:300px;
+}
+
+</style>
+<center><h1 class="ballin" onmouseover= "myFunction(this, 'brown')"  onclick= "myFunction(this, 'blue')"  ondblclick= "myFunction(this, 'yellow')"
+ onmouseleave= "myFunction(this, 'black')" oncontextmenu= "myFunction(this, 'white')">cartoon bean</h1></center>
+<script>
+function myFunction(element, color) {
+  element.style.color = color;
+}
+</script>
+<html>
+<center><h1>location: sandusky, ohio</h1></center>
+<center><h1>info: found in the closet of an old chuck.E.cheese</h1></center>
+<center><h1>image:</h1></center>
+<center><img class="cart" src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71A7QfR-oYL._RI_.jpg"></center>
+<center><h1>danger level: 7/10 dangerous</h1></center>
+  
+  
+<center><h1 class="mark">marketable mr.bean</h1></center>
+<center><h1>location: walmart</h1></center>
+<center><h1>info: mr.bean turned into an marketable action figure OH NO! dangerous because he crawls really fast and can do the big bean</h1></center>
+<center><h1>image:</h1></center>
+<center><img class="balls" src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81d4EAHsooL.jpg"></img></center>
+<center><h1>danger level: 10/10 very dangerous</h1></center>
+</html>
+
+
+
+  
+  <center><h1>RANDOM QUIZ</h1></center>
+  
+  <h1> how many poo poo's are alive</h1>
+<h1>red is wrong blue is right</h1>
+<style>
+.ballin {
+  box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15)
+}
+.goofy {
+  box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15)
+}
+.goof {
+  box-shadow: 5px 5px 10px; rgba(0, 0, 0, 0.15)
+}
+</style>
+
+<center><h1 class="ballin"   onclick= "myFunction(this, 'blue')"
+    "myFunction(this, 'red')">99</h1></center>
+    
+    <center><h1 class="goofy"   onclick= "myFunction(this, 'red')"
+    "myFunction(this, 'red')">1</h1></center>
+    
+     <center><h1 class="goof"   onclick= "myFunction(this, 'red')"
+    "myFunction(this, 'red')">34</h1></center>
+    
+    
+<script>
+function myFunction(element, color) {
+  element.style.color = color;
+}
+  </script>
+
+  
+  
+  
+  
+  
+<h1>how do you eat a bean</h1>
+
+
+<center><h1 class="ballin"   onclick= "myFunction(this, 'red')"
+    "myFunction(this, 'red')">tarter farter</h1></center>
+    
+    <center><h1 class="goofy"   onclick= "myFunction(this, 'blue')"
+    "myFunction(this, 'blue')">ike's</h1></center>
+    
+     <center><h1 class="goof"   onclick= "myFunction(this, 'red')"
+    "myFunction(this, 'red')">42</h1></center>
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
